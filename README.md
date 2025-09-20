@@ -88,3 +88,42 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+
+Project Documentation
+Features Implemented
+Responsive Design
+
+Mobile-friendly navigation with hamburger menu
+
+Responsive layout that adapts to different screen sizes
+
+Flexible images and media
+
+Three Pages
+
+Home page with image slider and services section
+
+About page with company information and team members
+
+Contact page with form validation
+
+JavaScript Functionality
+
+Navigation between pages
+
+Image slider with auto-advance and manual controls
+
+Form validation for contact form
+
+Semantic HTML5 Structure
+
+Proper use of semantic tags (header, main, section, footer)
+
+Clean and organized code structure
+
+project-folder/
+│
+├── index.html
+├── styles.css
+├── script.js
