@@ -118,6 +118,8 @@ Form validation for contact form
 
 Semantic HTML5 Structure
 
+Deployed on vercel. Link https://plp-webtechnologies-classroom-july2025-july-2025-hzdaan7zi.vercel.app/
+
 Proper use of semantic tags (header, main, section, footer)
 
 Clean and organized code structure
